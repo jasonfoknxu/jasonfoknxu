@@ -26,13 +26,14 @@
     "other": ["Electron", "React Native", "Android", "WebSocket", "Unity", "ActionScript"],
     "server": ["Apache", "Nginx", "Linux", "Azure", "AWS", "Docker"]
   },
-  "hobbies": ["coding","research on new techs","learning new things about IT"]
+  "hobbies": ["coding","research on new techs","learn new things about IT"]
 }
 ```
 
 ### :floppy_disk: More About Me
 - :briefcase: Now working in a **Edu-tech** company (Github: [@jasonfok-mlang](https://github.com/jasonfok-mlang))
 - :school: Graduated in **Computer Science** [2020] & **Software Engineering** [2017] 
+- :octocat: Repos usually push to my own git server, not active on Github before
 - :game_die: **Coding** is my hobby
 - :robot: Researching on **new techs**, **ML/AI**, **Data Analysis**, ...
 - Focus on **UX** and **UI** on most of the project
