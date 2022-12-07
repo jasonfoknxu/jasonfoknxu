@@ -6,7 +6,7 @@
 
 :keyboard: I started programming and build my first server when I am in primary school.
 
-### Quick Review of My Info
+### :turtle: Quick Review of My Info
 ```json
 {
   "name": "Jason",
@@ -33,7 +33,7 @@
 ### :floppy_disk: More About Me
 - :briefcase: Now working in a **Edu-tech** company (Github: [@jasonfok-mlang](https://github.com/jasonfok-mlang))
 - :school: Graduated in **Computer Science** [2020] & **Software Engineering** [2017] 
-- :octocat: Repos usually push to my own git server, not active on Github before
+- :octocat: Repos usually push to my self-hosted git server, not active on GitHub before
 - :game_die: **Coding** is my hobby
 - :robot: Researching on **new techs**, **ML/AI**, **Data Analysis**, ...
 - Focus on **UX** and **UI** on most of the project
@@ -67,3 +67,48 @@
 ### :books: My Projects
 
 > The projects are listed on my personal website: [NXUweb](https://www.nxuweb.net/)
+
+### :desktop_computer: Hardware Equipment
+
+#### Server
+|        |                                     Lab Server                                     |     |                     Web & DB Server                     |     |                                     VM Server                                      |
+|-------:|:----------------------------------------------------------------------------------:|-----|:-------------------------------------------------------:|-----|:----------------------------------------------------------------------------------:|
+|    CPU |                               Intel Xeon E5-2690 v3                                |     |                   Intel Core i3-8100                    |     |                                Intel Core i7-2600K                                 |
+|     MB |                                Asus X99-E WS/USB3.1                                |     |                   Asus PRIME Q370M-C                    |     |                                   Asus P8P67 Pro                                   |
+|    RAM |                     Micron DDR4 2400 32GB ECC REG * 8 (256GB)                      |     |         ADATA Premier DDR4 2666 8GB * 2 (16GB)          |     | Corsair Vengeance DDR3 1600 8GB * 2<br />ADATA XPG Gaming DDR3 1600 2GB * 2 (20GB) |
+|    GPU |                          MSI GeForce GTX 970 GAMING 100ME                          |     |                           ---                           |     |                                        ---                                         |
+| Cooler |                                   Noctua NH-D15S                                   |     |                           ---                           |     |                                        ---                                         |
+|    SSD | Samsung 970 EVO Plus, Crucial MX500,<br />Lexar NM610, Samsung 840 PRO, Intel 545s |     | WD Black 500GB PCIe 3 NVMe * 2 (RAID 1)<br />Intel 545s |     |                                        ---                                         |
+|    HDD |                       HGST 3TB, Hitachi 2TB, Toshiba 3TB * 4                       |     |                           ---                           |     |                                    Toshiba 3TB                                     |
+|    PSU |                                 FSP AURUM PT 850W                                  |     |                Antec NE550G NeoEco Gold                 |     |                                   Corsair HX750                                    |
+|     OS |                                       UNRAID                                       |     |                         Debian                          |     |                                     Proxmox VE                                     |
+
+#### Workstation / PC
+|        |                            Workstation 0                            |     |                       Mac Studio                       |     |                         PC 1                          |
+|-------:|:-------------------------------------------------------------------:|-----|:------------------------------------------------------:|-----|:-----------------------------------------------------:|
+|    CPU |                          AMD Ryzen 9 5950X                          |     |                      Apple M1 Max                      |     |                  Intel Core i5-8400                   |
+|     MB |                    Asus ProArt X570-Creator WiFi                    |     |                          ---                           |     |               ASRock DESKMINI 310W H310               |
+|    RAM |           Team T-Create Expert 32GB DDR4 3600 * 4 (128GB)           |     |                   Apple 64GB LPDDR5                    |     | G.Skill Ripjaws DDR4 SO-DIMM DDR4-2400 8GB * 2 (16GB) |
+|    GPU |                    MSI RTX 3060 Ti GAMING Z TRIO                    |     |                  Apple M1 Max 32-Core                  |     |                          ---                          |
+| Cooler |                    Arctic Liquid Freezer II 360                     |     |                          ---                           |     |                          ---                          |
+|    SSD | WD BLACK SN850 1TB PCIe 4 NVMe<br />PNY XLR8 CS3040 2TB PCIe 4 NVMe |     | Apple 1TB<br />Gigabyte AORUS NVMe Gen4 2TB (external) |     |    HP EX920 PCIe 3 NVMe 512GB, Samsung 860 EVO 1TB    |
+|    PSU |                         ASUS ROG STRIX 850G                         |     |                          ---                           |     |                        ASRock                         |
+|     OS |                               Windows                               |     |                         macOS                          |     |                   Windows & Manjaro                   |
+
+#### NAS
+|     |         QNAP TS-831X         |     |     Synology DS918+      |     |            Custom NAS             |
+|----:|:----------------------------:|-----|:------------------------:|-----|:---------------------------------:|
+| CPU | Annapurna Labs Alpine AL-314 |     |   Intel Celeron J3455    |     |        Intel Celeron J3160        |
+|  MB |             ---              |     |           ---            |     |         ASRock J3160-ITX          |
+| RAM |           DDR3 8GB           |     |         DDR3 4GB         |     | Kingston DDR3L 1600 4GB * 2 (8GB) |
+| HDD |  WD Ultrastar HC320 8TB * 8  |     | Seagate IronWolf 6TB * 4 |     |          Toshiba 3TB * 4          |
+|  OS |             QTS              |     |           DSM            |     |          openmediavault           |
+
+#### Laptop
+|     | Acer Chromebook Spin 714 |     |      Lenovo Thinkpad T460p      |
+|----:|:------------------------:|-----|:-------------------------------:|
+| CPU |   Intel Core i5-1235U    |     |      Intel Core i7-6820HQ       |
+| RAM |         DDR4 8GB         |     |       DDR4 8GB * 2 (16GB)       |
+| GPU |  Intel Iris Xe Graphics  |     |      Nvidia GeForce 940MX       |
+| SSD |          256GB           |     | Crucial MX300<br />LiteOn 128GB |
+|  OS |        Chrome OS         |     |             Manjaro             |
