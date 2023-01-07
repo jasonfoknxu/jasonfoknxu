@@ -14,7 +14,8 @@
   "email": "nxu@nxu.biz",
   "website": "https://nxuweb.net",
   "github": "jasonfoknxu",
-  "job": "Software Engineer",
+  "job": "Software Engineer & Researcher",
+  "company": "m-Chinese Solution Limited",
   "location": "Hong Kong",
   "languages": ["Cantonese", "English", "zh-HK", "zh-Hant", "zh-Hans"],
   "education": ["Bachelor of Science in Computer Science", "Higher Diploma in Software Engineering"],
@@ -26,7 +27,7 @@
     "other": ["Electron", "React Native", "Android", "WebSocket", "Unity", "ActionScript"],
     "server": ["Apache", "Nginx", "Linux", "Azure", "AWS", "Docker"]
   },
-  "hobbies": ["coding", "research on new techs", "learn new things about IT"]
+  "hobbies": ["coding", "research on new techs", "learn new things about IT", "watching live stream", "listening to music"]
 }
 ```
 
@@ -40,7 +41,7 @@
 - :thumbsup: Like & Support **FOSS** (Free and Open-Source Software)
 - :bulb: Various **ideas** and **plans** of new projects
 - :book: Always **keep learning**
-- Know a bit on **Multimedia Production** & **Content Creation**
+- :tv: Know a bit on **Multimedia Production** & **Content Creation**
 - :film_strip: Knowledge of **Video Editing** (*DaVinci Resolve/Premiere Pro*), **Visual Effects** (*After Effects*), **Image Editing** (*Photoshop*), **Vector Graphic** (*Illustrator/
   Inkscape*), **Audio Processing**
 - Dev History: Website & Flash Game :arrow_right: PC Software :arrow_right: Web App & System
@@ -57,8 +58,8 @@
 |----------------------------:|:---------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 |           :hash: *Language* | [![TypeScript](/icons/typescript.png)](https://www.typescriptlang.org/)<br />TypeScript | [![JavaScript](/icons/javascript.png)](https://www.ecma-international.org/)<br />JavaScript | [![C#](/icons/csharp.png)](https://learn.microsoft.com/dotnet/csharp/)<br />C# |               [![Java](/icons/java.png)](https://www.java.com/)<br />Java                | [![Visual Basic](/icons/visualstudio.png)](https://learn.microsoft.com/dotnet/visual-basic/)<br />VB.NET |                                     [![Python](/icons/python.png)](https://www.python.org/)<br />Python                                      |
 |            :gear: *Backend* |            [![Node.js](/icons/nodejs.png)](https://nodejs.org/)<br />Node.js            |                   [![PHP](/icons/php.png)](https://www.php.net/)<br />PHP                   |    [![Express.js](/icons/express.png)](https://expressjs.com/)<br />Express    |           [![Lavarel](/icons/laravel.png)](https://laravel.com/)<br />Laravel            |                                                                                                          |                                                                                                                                              |
-| :framed_picture: *Frontend* |           [![React.js](/icons/react.png)](https://reactjs.org/)<br />React.js           |              [![Next.js](/icons/nextjs.png)](https://nextjs.org/)<br />Next.js              |        [![jQuery](/icons/jquery.png)](https://jquery.com/)<br />jQuery         |               [![CSS](/icons/css3.png)](https://www.w3.org/CSS/)<br />CSS                |                     [![HTML](/icons/html5.png)](https://www.w3.org/html/)<br />HTML                      |                                                                                                                                              |
-|        :art: *UI / Styling* |     [![Bootstrap](/icons/bootstrap.png)](https://getbootstrap.com/)<br />Bootstrap      |                 [![Material UI](/icons/mui.png)](https://mui.com/)<br />MUI                 |   [![Chart.js](/icons/chartjs.png)](https://www.chartjs.org/)<br />Chart.js    |     [![tailwindcss](/icons/tailwindcss.png)](https://tailwindcss.com/)<br />Tailwind     |                    [![SASS](/icons/sass.png)](https://sass-lang.com/)<br />Sass/SCSS                     |                                                                                                                                              |
+| :framed_picture: *Frontend* |           [![React.js](/icons/react.png)](https://reactjs.org/)<br />React.js           |              [![Next.js](/icons/nextjs.png)](https://nextjs.org/)<br />Next.js              |        [![jQuery](/icons/jquery.png)](https://jquery.com/)<br />jQuery         |             [![HTML](/icons/html5.png)](https://www.w3.org/html/)<br />HTML              |                                                                                                          |                                                                                                                                              |
+|        :art: *UI / Styling* |     [![Bootstrap](/icons/bootstrap.png)](https://getbootstrap.com/)<br />Bootstrap      |                 [![Material UI](/icons/mui.png)](https://mui.com/)<br />MUI                 |   [![Chart.js](/icons/chartjs.png)](https://www.chartjs.org/)<br />Chart.js    |     [![tailwindcss](/icons/tailwindcss.png)](https://tailwindcss.com/)<br />Tailwind     |                    [![SASS](/icons/sass.png)](https://sass-lang.com/)<br />Sass/SCSS                     |                                         [![CSS](/icons/css3.png)](https://www.w3.org/CSS/)<br />CSS                                          |
 |  :card_file_box: *Database* |        [![Mongo DB](/icons/mongodb.png)](https://www.mongodb.com/)<br />MongoDB         |             [![MariaDB](/icons/mariadb.png)](https://mariadb.org/)<br />MariaDB             |        [![MySQL](/icons/mysql.png)](https://www.mysql.com/)<br />MySQL         |  [![PostgreSQL UI](/icons/postgresql.png)](https://www.postgresql.org/)<br />PostgreSQL  |                   [![SQLite](/icons/sqlite.png)](https://www.sqlite.org/)<br />SQLite                    |                                  [![Mongoose](/icons/mongoose.png)](https://mongoosejs.com/)<br />Mongoose                                   |
 |          :minidisc: *Other* |      [![Electron](/icons/electron.png)](https://www.electronjs.org/)<br />Electron      |       [![React Native](/icons/react.png)](https://reactnative.dev/)<br />React Native       |    [![Android](/icons/android.png)](https://www.android.com/)<br />Android     | [![WebSocket](/icons/websocket.png)](https://websockets.spec.whatwg.org/)<br />WebSocket |                       [![Unity](/icons/unity.png)](https://unity.com/)<br />Unity                        | [![ActionScript](/icons/actionscript.png)](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html)<br />ActionScript |
 |            :cloud: *Server* |          [![Apache](/icons/apache.png)](https://httpd.apache.org/)<br />Apache          |               [![Nginx](/icons/nginx.png)](https://www.nginx.com/)<br />Nginx               |   [![Linux](/icons/linux.png)](https://www.linuxfoundation.org/)<br />Linux    |     [![Microsoft Azure](/icons/azure.png)](https://azure.microsoft.com/)<br />Azure      |                [![Amazon Web Services](/icons/aws.png)](https://aws.amazon.com/)<br />AWS                |                                     [![Docker](/icons/docker.png)](https://www.docker.com/)<br />Docker                                      |
@@ -68,6 +69,17 @@
 ## :books: \<My Projects />
 
 > The projects are listed on my personal website: [NXUweb](https://www.nxuweb.net/)
+
+---
+
+## :cd: \<Commonly Used Software />
+- IDE: [Visual Studio Code](https://code.visualstudio.com), [WebStorm / PhpStorm](https://www.jetbrains.com)
+- SSH Client: [Royal TSX](https://royalapps.com/ts/), [MobaXterm](https://mobaxterm.mobatek.net)
+- Text Editor: [CotEditor](https://coteditor.com/), [Notepad++](https://notepad-plus-plus.org/)
+- Remote Control: [RustDesk](https://rustdesk.com), [TeamViewer](https://www.teamviewer.com/)
+- Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Premiere Pro](https://www.adobe.com/products/premiere.html), [After Effects](https://www.adobe.com/products/aftereffects.html)
+- Web Browser: [Google Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/firefox/), [Microsoft Edge](https://www.microsoft.com/edge/)
+
 
 ## :desktop_computer: \<Hardware Equipment />
 <details>
