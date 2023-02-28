@@ -25,7 +25,7 @@
     "frontend": ["React.js", "Next.js", "jQeury", "CSS", "HTML", "Bootstrap", "MUI", "Chart.js", "Tailwind", "Sass/SCSS"],
     "database": ["MongoDB", "MariaDB", "MySQL", "PostgreSQL", "SQLite", "Mongoose"],
     "other": ["Electron", "React Native", "Android", "WebSocket", "Unity", "ActionScript"],
-    "server": ["Apache", "Nginx", "Linux", "Azure", "AWS", "Docker"]
+    "server": ["Apache", "Nginx", "Caddy", "Linux", "Azure", "AWS", "Docker"]
   },
   "hobbies": ["coding", "research on new techs", "learn new things about IT", "watching live stream", "listening to music"]
 }
@@ -44,9 +44,11 @@
 - :tv: Know a bit on **Multimedia Production** & **Content Creation**
 - :film_strip: Knowledge of **Video Editing** (*DaVinci Resolve/Premiere Pro*), **Visual Effects** (*After Effects*), **Image Editing** (*Photoshop*), **Vector Graphic** (*Illustrator/
   Inkscape*), **Audio Processing**
+- :video_game: Like developing games more than playing games (Favourite Genre: Simulations, Sandboxing, Open World, Strategy, Turn-based, SRPG)
 - Dev History: Website & Flash Game :arrow_right: PC Software :arrow_right: Web App & System
 - Familiar with **Traditional Chinese** & **Simplified Chinese**
 - Native speak in **Cantonese**
+- Cooperated with live streamer
 - Founder/Admin of [nxu.biz](https://nxu.biz) (A website to provide services, tools and software for everyone.)
 - Founder/Admin of [YUKARI FAN CLUB](https://yukari.top) (A fan club of Xiao Yuan, a singer/live streamer in China)
 - Previous have an online store with my own developed system [NXUShop](https://shop.nxuweb.net) [2015 - 2017]
@@ -68,7 +70,7 @@
 
 ## :books: \<My Projects />
 
-> The projects are listed on my personal website: [NXUweb](https://www.nxuweb.net/)
+> The projects are listed on my personal website: [NXUweb](https://www.nxuweb.net/) (:construction: Update later)
 
 ---
 
@@ -76,7 +78,7 @@
 - IDE: [Visual Studio Code](https://code.visualstudio.com), [WebStorm / PhpStorm](https://www.jetbrains.com)
 - SSH Client: [Royal TSX](https://royalapps.com/ts/), [MobaXterm](https://mobaxterm.mobatek.net)
 - Text Editor: [CotEditor](https://coteditor.com/), [Notepad++](https://notepad-plus-plus.org/)
-- Remote Control: [RustDesk](https://rustdesk.com), [TeamViewer](https://www.teamviewer.com/)
+- Remote Access: [RustDesk](https://rustdesk.com), [TeamViewer](https://www.teamviewer.com/)
 - Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Premiere Pro](https://www.adobe.com/products/premiere.html), [After Effects](https://www.adobe.com/products/aftereffects.html)
 - Web Browser: [Google Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/firefox/), [Microsoft Edge](https://www.microsoft.com/edge/)
 
