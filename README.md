@@ -6,6 +6,8 @@
 
 :keyboard: I started programming and build my first server when I am in primary school.
 
+:cloud: (Planning) Own Cloud Service: Provide AI & Multi-Cloud Solutions for Personal Technical Users, Start-Ups and Small Businesses. (Coming Soon)
+
 ## :turtle: \<Quick Review of My Info />
 ```json
 {
@@ -47,8 +49,11 @@
 - :video_game: Like developing games more than playing games (Favourite Genre: Simulations, Sandboxing, Open World, Strategy, Turn-based, SRPG)
 - Dev History: Website & Flash Game :arrow_right: PC Software :arrow_right: Web App & System
 - Familiar with **Traditional Chinese** & **Simplified Chinese**
-- Native speak in **Cantonese**
+- Native speaker of **Cantonese**
+- Help translating software to Traditional Chinese from English/Simplified Chinese
+- Start providing free web services from 2014
 - Cooperated with live streamer
+- Learning about set up and hosting game server
 - Founder/Admin of [nxu.biz](https://nxu.biz) (A website to provide services, tools and software for everyone.)
 - Founder/Admin of [YUKARI FAN CLUB](https://yukari.top) (A fan club of Xiao Yuan, a singer/live streamer in China)
 - Previous have an online store with my own developed system [NXUShop](https://shop.nxuweb.net) [2015 - 2017]
