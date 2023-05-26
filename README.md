@@ -25,13 +25,19 @@
     "programming": ["TypeScript", "JavaScript", "C#", "Java", "VB.NET", "Python"],
     "backend": ["Node.js", "PHP", "Express", "Laravel"],
     "frontend": ["React.js", "Next.js", "jQeury", "CSS", "HTML", "Bootstrap", "MUI", "Chart.js", "Tailwind", "Sass/SCSS"],
-    "database": ["MongoDB", "MariaDB", "MySQL", "PostgreSQL", "SQLite", "Mongoose"],
+    "database": ["MongoDB", "MariaDB", "MySQL", "PostgreSQL", "SQLite", "Mongoose", "Redis"],
     "other": ["Electron", "React Native", "Android", "WebSocket", "Unity", "ActionScript"],
     "server": ["Apache", "Nginx", "Caddy", "Linux", "Azure", "AWS", "Docker"]
   },
   "hobbies": ["coding", "research on new techs", "learn new things about IT", "watching live stream", "listening to music"]
 }
 ```
+
+## :incoming_envelope: \<Contact Me />
+- Email: nxu@nxu.biz
+- LinkedIn: [jasonfoknxu](https://www.linkedin.com/in/jasonfoknxu)
+- Discord: NXU#6465
+- WhatsApp/Signal/Telegram: [Hidden]
 
 ## :floppy_disk: \<More About Me />
 - :briefcase: Now working in a **Edu-tech** company (Github: [@jasonfok-mlang](https://github.com/jasonfok-mlang))
@@ -53,9 +59,9 @@
 - Help translating software to Traditional Chinese from English/Simplified Chinese
 - Start providing free web services from 2014
 - Cooperated with live streamer
-- Founder/Admin of [nxu.biz](https://nxu.biz) (A website to provide services, tools and software for everyone.)
+- Founder/Admin of [nxu.biz](https://nxu.biz) (A website to provide services, tools and software for everyone. Will be revamped and merged to new service.)
 - Founder/Admin of [YUKARI FAN CLUB](https://yukari.top) (A fan club of Xiao Yuan, a singer/live streamer in China)
-- Previous have an online store with my own developed system [NXUShop](https://shop.nxuweb.net) [2015 - 2017]
+- Previous have an online shop with my own developed system [NXUShop](https://shop.nxuweb.net) [2015 - 2017]
 - Experience in writing tech gadgets reviews & unboxing on my blog [NXUTech](https://tech.nxuweb.net) [2013 - 2016]
 - Experience in writing tech news on my blog [NXUNews](https://news.nxuweb.net) [2011 - 2013]
 
@@ -72,7 +78,7 @@
 > and my skill set is keep extending...
 
 ### Extra Experience
-- **DevOps**: GitHub Actions, Docker / Docker Compose, Git, Jira
+- **DevOps & CI/CD**: GitHub Actions, Drone, Docker / Docker Compose, Git, Jira
 - **Testing**: Jest, Selenium, JUnit
 - **Auth**: JWT, Bearer, Session (PHP), TOTP
 - **CMS**: WordPress, Discuz!
