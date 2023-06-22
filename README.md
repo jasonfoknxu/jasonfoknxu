@@ -6,7 +6,7 @@
 
 :keyboard: I started programming and build my first server when I am in primary school.
 
-:cloud: (Planning) Own Cloud Service: Provide AI & Multi-Cloud Solutions for Personal Technical Users, Start-Ups and Small Businesses. (Coming Soon)
+:cloud: Private Cloud Service: Provide AI & Multi-Cloud Solutions for Personal Technical Users, Start-Ups and Small Businesses. (Coming Soon)
 
 ## :turtle: \<Quick Review of My Info />
 ```json
@@ -24,10 +24,11 @@
   "technologies": {
     "programming": ["TypeScript", "JavaScript", "C#", "Java", "VB.NET", "Python"],
     "backend": ["Node.js", "PHP", "Express", "Laravel"],
-    "frontend": ["React.js", "Next.js", "jQeury", "CSS", "HTML", "Bootstrap", "MUI", "Chart.js", "Tailwind", "Sass/SCSS"],
+    "frontend": ["React.js", "Next.js", "jQuery", "CSS", "HTML", "Bootstrap", "MUI", "Chart.js", "Tailwind", "Sass/SCSS"],
     "database": ["MongoDB", "MariaDB", "MySQL", "PostgreSQL", "SQLite", "Mongoose", "Redis"],
     "other": ["Electron", "React Native", "Android", "WebSocket", "Unity", "ActionScript"],
-    "server": ["Apache", "Nginx", "Caddy", "Linux", "Azure", "AWS", "Docker"]
+    "server": ["Apache", "Nginx", "Caddy", "Linux", "Azure", "AWS", "Docker"],
+    "devops": ["GitHub Actions", "Drone", "Docker Compose"]
   },
   "hobbies": ["coding", "research on new techs", "learn new things about IT", "watching live stream", "listening to music"]
 }
@@ -59,6 +60,7 @@
 - Help translating software to Traditional Chinese from English/Simplified Chinese
 - Start providing free web services from 2014
 - Cooperated with live streamer
+- Owner of an online shop: [foobar.store](https://foobar.store)
 - Founder/Admin of [nxu.biz](https://nxu.biz) (A website to provide services, tools and software for everyone. Will be revamped and merged to new service.)
 - Founder/Admin of [YUKARI FAN CLUB](https://yukari.top) (A fan club of Xiao Yuan, a singer/live streamer in China)
 - Previous have an online shop with my own developed system [NXUShop](https://shop.nxuweb.net) [2015 - 2017]
@@ -82,7 +84,7 @@
 - **Testing**: Jest, Selenium, JUnit
 - **Auth**: JWT, Bearer, Session (PHP), TOTP
 - **CMS**: WordPress, Discuz!
-- **Chatbot**: Discord, Telegram, QQ
+- **Chatbot**: Discord, Telegram, QQ, ChatGPT
 
 ## :books: \<My Projects />
 
@@ -110,6 +112,7 @@
 - MAC Studio (macOS, M1 MAX, 64GB RAM)
 - Workstation 2022 (Windows 10, Ryzen 9 5950X, X570, 128GB RAM, RTX 3060 Ti)
 - PC2 (Manjaro & Windows 10, Core i5-8400, H310, 16GB RAM)
+- Work PC (Windows 11, Core i5-13600K, B660, 32GB RAM)
 
 #### NAS
 - Synology DS918+
