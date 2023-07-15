@@ -92,6 +92,55 @@
 
 ---
 
+## :trophy: \<Milestone />
+- 2007 \- Start creating websites & studying web tech (HTML, JavaScript, CSS)
+- 2008 \- Learn my first programming language `Visual Basic 6.0`
+- 2009 \- Created my first flash game with ActionScript ~ `NXUTD`, a Tower Defense game
+
+└── ![NXUTD](images/nxutd_thumb.png)
+- 2009 \- Own my first server
+- 2010 \- Own my first domain `nxuweb.net`
+- 2011 \- Set up `NXUNews` and start posting technology news and reviews
+
+└── ![NXUNews](images/nxunews_thumb.png)
+- 2013 \- `NXUNews`/`NXUweb` achieved Hong Kong ranking `1,208` & `286,981` in global ranking (Alexa Rank)
+
+└── ![NXUweb Alexa Rank](images/nxuweb-alexa-rank-2013-02-25.png)
+- 2013 \- Developed `NXUTech.` to replace *NXUNews*, focus on reviewing, testing, unboxing and analysis of IT gadgets
+
+└── ![NXUTech.](images/nxutech_thumb.png)
+- 2014 \- Launched `nxu.biz`, provided free software solution to maximize the efficiency of daily work
+
+└── ![nxu.biz](images/nxu-biz_logo.png)
+- 2014 \- Released my first web application `BitXByteConverter`
+
+└── ![BitXByteConverter](images/bxbc_thumb.png)
+- 2015 \- Established `NXUShop` for selling gadgets, toys, gifts (File-base online shop system)
+
+└── ![NXUShop](images/nxushop_thumb.png)
+- 2015 \- Introduced `Smart Intelligence Engine`, an intelligent problem-solving tool
+- 2017 \- Graduated with Higher Diploma in `Software Engineering`
+- 2017 \- Founded `YUKARI FAN CLUB` (YFC), a fan club of a singer/live streamer
+
+└── ![YUKARI FAN CLUB](images/yfc_logo.png)
+- 2018 \- Launched `YUKARI DASHBOARD`, the data analysis platform of YFC
+
+└── ![YUKARI DASHBOARD](images/yukari-dashboard_thumb.png)
+- 2019 \- Developed `YFC Admin Management System`, a multi-functional real-time data collection, management, analysis, visualization platform of YFC
+
+└── ![YUKARI FAN CLUB Admin Management System](images/yukari-fan-club-backend.png)
+- 2019 \- Became a staff member of `Yukari World`, a live concert activity
+
+└── ![Yukari World](images/yukari-world_logo.png)
+- 2020 \- Released `Xiang AI chatbot`, the chatbot of YFC
+- 2020 \- Graduated with BSc in `Computer Science`
+- 2021 \- Joined m-Chinese Solution Limited as `Software Engineer`
+- 2023 \- Established a online shop `foobar.store`
+  
+└── ![foobar.store](images/foobar.store_logo.png)
+
+---
+
 ## :cd: \<Commonly Used Software />
 - IDE: [Visual Studio Code](https://code.visualstudio.com), [WebStorm / PhpStorm](https://www.jetbrains.com)
 - SSH Client: [Royal TSX](https://royalapps.com/ts/), [MobaXterm](https://mobaxterm.mobatek.net)
