@@ -6,7 +6,7 @@
 
 :keyboard: I started programming and build my first server when I am in primary school.
 
-:cloud: Private Cloud Service: Provide AI & Multi-Cloud Solutions for Personal Technical Users, Start-Ups and Small Businesses. (Coming Soon)
+:cloud: Building my own Private Cloud and experimenting with Machine Learning.
 
 ## :turtle: \<Quick Review of My Info />
 ```json
@@ -35,37 +35,26 @@
 ```
 
 ## :incoming_envelope: \<Contact Me />
-- Email: nxu@nxu.biz
+- Email: nxu@nxu.biz / foobar@helloworld.email
 - LinkedIn: [jasonfoknxu](https://www.linkedin.com/in/jasonfoknxu)
 - Discord: NXU#6465
 - WhatsApp/Signal/Telegram: [Hidden]
 
 ## :floppy_disk: \<More About Me />
 - :briefcase: Now working in a **Edu-tech** company (Github: [@jasonfok-mlang](https://github.com/jasonfok-mlang))
-- :school: Graduated in **Computer Science** [2020] & **Software Engineering** [2017] 
+- :school: Graduated in **Computer Science** [2020] & **Software Engineering** [2017]
 - :octocat: Repos usually push to my self-hosted git server, not active on GitHub before
 - :game_die: **Coding** is my hobby
 - :star2: Researching on :rocket: **new techs**, :robot: **ML/AI**, :bar_chart: **Data Analysis**, ...
 - :rainbow: Focus on **UX** and **UI** on most of the project
 - :thumbsup: Like & Support **FOSS** (Free and Open-Source Software)
-- :bulb: Various **ideas** and **plans** of new projects
+- :bulb: Problem solver, Innovator, various **ideas** of new projects
 - :book: Always **keep learning**
-- :tv: Know a bit on **Multimedia Production** & **Content Creation**
-- :film_strip: Knowledge of **Video Editing** (*DaVinci Resolve/Premiere Pro*), **Visual Effects** (*After Effects*), **Image Editing** (*Photoshop*), **Vector Graphic** (*Illustrator/
-  Inkscape*), **Audio Processing**
-- :video_game: Like developing games more than playing games (Favourite Genre: Simulations, Sandboxing, Open World, Strategy, Turn-based, SRPG)
-- Dev History: Website & Flash Game :arrow_right: PC Software :arrow_right: Web App & System
-- Familiar with **Traditional Chinese** & **Simplified Chinese**
-- Native speaker of **Cantonese**
-- Help translating software to Traditional Chinese from English/Simplified Chinese
-- Start providing free web services from 2014
-- Cooperated with live streamer
-- Owner of an online shop: [foobar.store](https://foobar.store)
-- Founder/Admin of [nxu.biz](https://nxu.biz) (A website to provide services, tools and software for everyone. Will be revamped and merged to new service.)
-- Founder/Admin of [YUKARI FAN CLUB](https://yukari.top) (A fan club of Xiao Yuan, a singer/live streamer in China)
-- Previous have an online shop with my own developed system [NXUShop](https://shop.nxuweb.net) [2015 - 2017]
-- Experience in writing tech gadgets reviews & unboxing on my blog [NXUTech](https://tech.nxuweb.net) [2013 - 2016]
-- Experience in writing tech news on my blog [NXUNews](https://news.nxuweb.net) [2011 - 2013]
+- :tv: Know a bit on **Video/Image Editing**, **VFX/Multimedia Production** & **Content Creation**
+- :hong_kong: Native speaker of **Cantonese**, familiar with both **Traditional Chinese** & **Simplified Chinese**
+- :earth_asia: Help translating software to Traditional Chinese from English/Simplified Chinese
+- :globe_with_meridians: Start providing free web services from 2014
+- :studio_microphone: Cooperated with live streamer
 
 ## :abacus: \<My Tech Stack />
 |                             |                                                                                         |                                                                                             |                                                                                |                                                                                          |                                                                                                          |                                                                                                                                              |
@@ -82,9 +71,21 @@
 ### Extra Experience
 - **DevOps & CI/CD**: GitHub Actions, Drone, Docker / Docker Compose, Git, Jira
 - **Testing**: Jest, Selenium, JUnit
-- **Auth**: JWT, Bearer, Session (PHP), TOTP
+- **Auth**: JWT, Bearer token, Session (PHP), TOTP
 - **CMS**: WordPress, Discuz!
 - **Chatbot**: Discord, Telegram, QQ, ChatGPT
+- **OS**: Ubuntu/Debian, macOS, Windows 11/10/7, Manjaro/Arch, CentOS
+- **Reverse Engineering**: APIs of video sharing platform/social media platform, WebSocket data of live streaming platform
+- **Multimedia**: DaVinci Resolve, Premiere Pro, After Effects, Photoshop
+
+## :cd: \<My Websites />
+- [foobar.store](https://foobar.store) –– An online shop for selling computer peripherals, mobile phone accessories, creative gadgets, TCG
+- [nxu.biz](https://nxu.biz) –– A website to provide services, tools and software for everyone. Will be revamped and merged to new service later.
+- [YUKARI FAN CLUB](https://yukari.top) –– A fan club of Xiao Yuan, a singer/live streamer in China
+- (Deprecated) [NXUShop](https://shop.nxuweb.net) –– An online shop for selling gadgets, toys, gifts [2015 - 2017]
+- (Deprecated) [NXUTech](https://tech.nxuweb.net) –– A blog with my tech gadgets reviews & unboxing [2013 - 2016]
+- (Deprecated) [NXUNews](https://new.nxuweb.net) –– A tech news blog [2011 - 2013]
+- More coming soon...
 
 ## :books: \<My Projects />
 
@@ -138,21 +139,14 @@
 - 2023 \- Established a online shop `foobar.store`
   
 └── ![foobar.store](/images/foobar.store_logo.png)
+- 2023 \- Built my own private cloud (New Server, New Network, New System)
 
 ---
-
-## :cd: \<Commonly Used Software />
-- IDE: [Visual Studio Code](https://code.visualstudio.com), [WebStorm / PhpStorm](https://www.jetbrains.com)
-- SSH Client: [Royal TSX](https://royalapps.com/ts/), [MobaXterm](https://mobaxterm.mobatek.net)
-- Text Editor: [CotEditor](https://coteditor.com/), [Notepad++](https://notepad-plus-plus.org/)
-- Remote Access: [RustDesk](https://rustdesk.com), [TeamViewer](https://www.teamviewer.com/)
-- Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Premiere Pro](https://www.adobe.com/products/premiere.html), [After Effects](https://www.adobe.com/products/aftereffects.html)
-- Web Browser: [Google Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/firefox/), [Microsoft Edge](https://www.microsoft.com/edge/)
-
 
 ## :desktop_computer: \<Hardware Equipment />
 
 #### Server
+- Hello World Private Cloud (Proxmox VE, EPYC 7542, 512GB RAM, RTX4090)
 - Home Lab Server (UNRAID, Xeon E5-2690v3, X99, 256GB RAM, GTX970)
 - WEB & DATABASE (Debian, Core i3-8100, Q370, 16GB RAM)
 - VM Server (Proxmox VE, Core i7-2600K, P67, 20GB RAM)
@@ -161,7 +155,6 @@
 - MAC Studio (macOS, M1 MAX, 64GB RAM)
 - Workstation 2022 (Windows 10, Ryzen 9 5950X, X570, 128GB RAM, RTX 3060 Ti)
 - PC2 (Manjaro & Windows 10, Core i5-8400, H310, 16GB RAM)
-- Work PC (Windows 11, Core i5-13600K, B660, 32GB RAM)
 
 #### NAS
 - Synology DS918+
