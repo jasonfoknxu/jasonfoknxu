@@ -65,6 +65,7 @@
 - Generative AI (Text, Image, Video)
 - Data Analytics
 - AI Multimedia processing
+
 (*May change based on the ongoing development of AI and technologies*)
 
 ## :abacus: \<My Tech Stack />
