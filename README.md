@@ -17,20 +17,19 @@
   "education": ["Bachelor of Science in Computer Science", "Higher Diploma in Software Engineering"],
   "technologies": {
     "programming": ["Typescript", "JavaScript", "PHP", "Python", "C#", "Java", "Visual Basic / VB.NET"],
-    "backend": ["Node.js", "Express.js", "Laravel", "Fastify"],
+    "backend": ["Node.js", "Express.js", "NestJS", "Fastify", "Laravel"],
     "frontend": ["Next.js", "React", "Vue", "Vite", "jQuery", "HTML"],
     "ui": ["Tailwind", "daisyUI", "MUI", "Headless UI", "Bootstrap", "Chart.js", "Sass/SCSS", "CSS"],
-    "database": ["MongoDB", "MariaDB", "MySQL", "PostgreSQL", "SQLite", "Mongoose", "Redis"],
+    "database": ["MongoDB", "MariaDB", "MySQL", "PostgreSQL", "SQLite", "Mongoose", "TypeORM", "Redis"],
     "mobile": ["React Native", "Android", "Unity"],
     "others": ["Socket.io", "WebSocket", "Electron", "ActionScript"],
     "web_proxy": ["Caddy", "Nginx", "Apache", "Traefik"],
     "devops": ["GitLab CI", "GitHub Actions", "Gitea Actions", "Drone CI"],
-    "deployment": ["Docker / Docker Compose", "PM2", "nodemon", "forever", "ts-node", "SWC", "Babel", "Webpack"],
+    "deployment": ["Docker", "Docker Compose", "PM2", "nodemon", "forever", "ts-node", "SWC", "Babel", "Webpack", "Portainer"],
     "cloud_apis": ["Azure", "AWS", "Cloudflare", "Alibaba Cloud", "OpenAI", "Twilio", "SendGrip", "MessageBird"],
-    "llm": ["GPT-4 / ChatGPT", "Llama", "WizardLM", "Vicuna", "..."],
     "testing": ["Jest", "Selenium", "JUnit"],
     "auth": ["JWT", "Bearer token", "Cookies", "Session"],
-    "chatbot": ["Discord", "Telegram", "QQ"],
+    "chatbot": ["LLM", "RAG", "GPT-4", "ChatGPT", "Llama", "Discord", "Telegram", "QQ"],
     "cms": ["WordPress", "Discuz!"],
     "os": ["Ubuntu/Debian", "macOS", "Windows 11/10/7", "Manjaro/Arch", "CentOS", "Linux"],
     "reverse_engineering": ["JavaScript function", "RESTful API", "WebSocket Packet", "HTML frontend"],
@@ -47,7 +46,6 @@
 
 ## :floppy_disk: \<More About Me />
 - :computer: Founded a company `Hello World Technovation Limited`, providing SaaS & AI solutions
-- :briefcase: Working with a `Edu-tech` company (Github: [@jasonfok-mlang](https://github.com/jasonfok-mlang))
 - :school: Graduated in `Computer Science` [2020] & `Software Engineering` [2017]
 - :octocat: Repos usually push to my self-hosted git server, not active on GitHub
 - :game_die: **Coding** is my hobby
@@ -61,25 +59,32 @@
 - :globe_with_meridians: Start providing free web services from 2014
 - :studio_microphone: Cooperated with live streamer
 
+## :microscope: \<Research Area />
+- Implementation of AI Application
+- Large Language Model
+- Generative AI (Text, Image, Video)
+- Data Analytics
+- AI Multimedia processing
+(*May change based on the ongoing development of AI and technologies*)
+
 ## :abacus: \<My Tech Stack />
 
 |   |   |
 |:---:|---|
 |*Programming* | `Typescript`, `JavaScript`, `PHP`, `Python`, `C#`, `Java`, `Visual Basic / VB.NET` |
-|*Backend*| `Node.js`, `Express.js`, `Lavarel`, `Fastify`|
+|*Backend*| `Node.js`, `Express.js`, `NestJS`, `Fastify`, `Lavarel`|
 |*Frontend*| `Next.js` (Full-Stack), `React`, `Vue`, `Vite`, `jQuery`, `HTML`|
 |*UI / Styling*| `Tailwind`, `daisyUI`, `MUI`, `Headless UI`, `Bootstrap`, `Chart.js`, `Sass/SCSS`, `CSS`|
-|*Database*| `MongoDB`, `MariaDB`, `MySQL`, `PostgreSQL`, `SQLite`, `Mongoose`, `Redis`|
+|*Database*| `MongoDB`, `MariaDB`, `MySQL`, `PostgreSQL`, `SQLite`, `Mongoose`, `TypeORM`, `Redis`|
 |*Mobile*| `React Native`, `Android` (Java), `Unity` (C#)|
 |*Others*| `Socket.io`, `WebSocket`, `Electron` (Windows + Linux + Mac), `ActionScript` (Flash)|
 |*Web / Proxy*| `Caddy`, `Nginx`, `Apache`, `Traefik`|
 |*DevOps / CI/CD*| `GitLab CI`, `GitHub Actions`, `Gitea Actions`, `Drone CI`|
-|*Deployment*| `Docker / Docker Compose`, `PM2`, `nodemon`, `forever`, `ts-node`, `SWC`, `Babel`, `Webpack`|
+|*Deployment*| `Docker`, `Docker Compose`, `PM2`, `nodemon`, `forever`, `ts-node`, `SWC`, `Babel`, `Webpack`, `Portainer`|
 |*Cloud / APIs*| `Azure`, `AWS`, `Cloudflare`, `Alibaba Cloud` (CN), `OpenAI`, `Twilio`, `SendGrip`, `MessageBird`|
-|*LLM*| `GPT-4 / ChatGPT`, `Llama`, `WizardLM`, `Vicuna`, ...|
 |*Testing*| `Jest`, `Selenium`, `JUnit`|
 |*Auth*| `JWT`, `Bearer token`, `Cookies`, `Session` (PHP), `TOTP`|
-|*Chatbot*| `Discord`, `Telegram`, `QQ`|
+|*Chatbot*| `LLM`, `RAG`, `GPT-4`, `ChatGPT`, `Llama`, `Discord`, `Telegram`, `QQ`|
 |*CMS*| `WordPress`, `Discuz!`|
 |*OS*| `Ubuntu/Debian`, `macOS`, `Windows 11/10/7`, `Manjaro/Arch`, `CentOS`, `Linux`|
 |*Reverse Engineering*| `JavaScript function`, `RESTful API`, `WebSocket Packet`, `HTML frontend`|
@@ -139,7 +144,7 @@
 - 2019 \- Became a staff member of `Yukari World`, a live concert activity
 - 2020 \- Released `Xiang AI chatbot`, the chatbot of YFC
 - 2020 \- Graduated with BSc in `Computer Science`
-- 2021 \- Joined m-Chinese Solution Limited as `Software Engineer & Researcher`
+- 2021 \- Joined m-Chinese Solution Limited (Edu-tech) as `Software Engineer & Researcher` (Github: [@jasonfok-mlang](https://github.com/jasonfok-mlang))
 - 2023 \- Established a online shop `foobar.store`
 - 2023 \- Built my own enterprise level private cloud server
 - 2024 \- Founded a company **Hello World Technovation Limited** (HWT), providing SaaS & AI solutions
